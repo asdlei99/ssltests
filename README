@@ -1,0 +1,9 @@
+ssltests
+Ramsey Kant
+
+https://github.com/RamseyK
+
+Using the OpenSSL library for simple client/server functions. The OpenSSL documentation is
+horrible so I resorted to these test programs to get used to the library.
+
+See LICENSE.TXT for licensing info
